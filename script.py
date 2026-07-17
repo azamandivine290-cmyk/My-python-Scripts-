@@ -4,5 +4,3 @@ print ("Hello, " + name)
 item_sold = 5 
 price = 20
 total_revenue = item_sold * price 
-print ("Total revenue is:")
-print (total_revenue) 
